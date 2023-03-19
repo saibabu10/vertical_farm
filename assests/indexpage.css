@@ -1,0 +1,107 @@
+
+.Logo{
+   background-color: black;
+   color: white;
+
+}
+img.logo{
+    height: 40px;
+    width: 40px;
+     margin-bottom: -15px; 
+}
+.Logo a
+{
+    color: white ;
+    text-decoration: none;
+    padding: 30px;
+   
+}
+.Logo a:hover{
+    color:#def470;
+}
+input.button1
+{
+    border-radius: 16px;
+   margin-left: 300px;
+   background-color: black;
+   color: white;
+}
+/* input.button1:hover{
+    background-color:yellow;
+    color:black;
+} */
+input.button2
+{
+    border-radius:16px;
+   margin-left: 20px;
+   background-color:#def470;;
+   color: black;
+}
+/* input.button2:hover
+{
+    background-color:yellow;
+    color:black;
+} */
+.body
+{
+    background-color: black;
+    color: white;   
+    padding:10px;
+}
+img.infinity
+{
+    /* height: 40px;
+    width: 40px; */
+    margin-bottom: -20px;
+}
+.highlight
+{
+    background-color:#def470;
+    color: black;
+}
+.body{
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sub
+{
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input.button3
+{
+    border-radius: 50px;
+    background-color: #def470;
+    color: black;
+    font-size: 10px;
+    height: 45px;
+    width: 120px;
+}
+input.button4
+{
+    border-radius: 500px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    height: 45px;
+    width: 140px;
+}
+.plant
+{
+    height: 100px;
+    width:200px;
+    margin-bottom: -35px;
+}
+.box1
+{
+    background-color: #def470;
+    color: black;
+}
+.footer
+{
+    margin: -10px;
+    background-color: white;
+    color: black;
+    font-size: 15px ;
+  
+}
